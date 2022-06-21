@@ -1,0 +1,46 @@
+.AutoItem__card{
+    width: 386px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+    height: 750px;
+
+}
+
+.AutoItem__image{
+    width: 367px;
+    height: 250px;
+    border: 0px;
+    background-color: whitesmoke;
+    object-fit: scale-down;
+    border-radius: 5px;
+    margin-left: -24px;
+}
+
+
+.AutoItem__div1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+.AutoItem__div2 {
+    margin-bottom: 10px;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding-right: 20px;
+
+}
+
+.AutoItem__div2 p{
+    font-size: 11px;
+}
+
+
+.AutoItem__button{
+    color:aliceblue;
+    text-decoration: none;
+}

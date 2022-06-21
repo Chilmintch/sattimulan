@@ -1,0 +1,40 @@
+.Search__page{
+    display: flex;
+    width: 1210px;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin: auto;
+}
+
+.Search__category_div {
+    margin-right: 15px;
+    width: 350px;
+}
+
+.Search__category_div p{
+    margin-right: 5px;
+    border: 1px solid #e4e4e7;
+    border-radius: 5px;
+}
+
+.Search__price_div{
+    margin-right: 15px;
+    width: 350px;
+}
+
+.Search__price_div p{
+    margin-right: 5px;
+    border: 1px solid #e4e4e7;
+    border-radius: 5px;
+}
+
+.Search__year_div{
+    width: 792px;
+}
+
+.Search__year_div p{
+    width: 792px;
+    border: 1px solid #e4e4e7;
+    font-size: 14px;
+    border-radius: 5px;
+}
